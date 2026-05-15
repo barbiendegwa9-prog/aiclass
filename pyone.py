@@ -14,3 +14,4 @@ name.pop(4)
 print(name)
 del name[5]
 print(name)
+#fghjnmjgvbnmjnkm
